@@ -18,18 +18,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
 
-  <distributionManagement>
-    <repository>
-      <id>nexus</id>
-      <name>maven-releases</name>
-      <url>https://nexus3-sat-test.apps.ocp3.azure.dso.digital.mod.uk/repository/maven-releases/</url>
-    </repository>
-    <snapshotRepository>
-      <id>nexus</id>
-      <name>maven-snapshots</name>
-      <url>https://nexus3-sat-test.apps.ocp3.azure.dso.digital.mod.uk/repository/maven-snapshots/</url>
-    </snapshotRepository>
-  </distributionManagement>
+
 
   <dependencies>
     <dependency>
