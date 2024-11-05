@@ -22,12 +22,12 @@
     <repository>
       <id>nexus</id>
       <name>maven-releases</name>
-      <url>https://nrm-nexus-repo.apps.ocp5.azure.dso.digital.mod.uk/repository/maven-releases/</url>
+      <url>https://nrm-nexus-repo.apps.ocp1.azure.dso.digital.mod.uk/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>maven-snapshots</name>
-      <url>https://nrm-nexus-repo.apps.ocp5.azure.dso.digital.mod.uk/repository/maven-snapshots/</url>
+      <url>https://nrm-nexus-repo.apps.ocp1.azure.dso.digital.mod.uk/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
